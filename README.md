@@ -1,4 +1,4 @@
 # ====Bloomingdales Project Setup====
 
-1.afsdafsd
-2.aasdfasdfsdf
+### 1.afsdafsd
+### 2.afsdafsd
