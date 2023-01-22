@@ -10,7 +10,7 @@
 
 ### backend>npm i
 
-#### 4. create local database called bloomingdales in mongodb
+#### 4. create local database called "bloomingdales" in mongodb
 
 #### 5. to seed the database, go to browser and type
 
