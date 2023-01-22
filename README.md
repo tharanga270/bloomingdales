@@ -29,5 +29,5 @@
 #### now go to browser and type
 
 ### http://localhost:3000 in browser
-
+### user login details are in backend/data.js file
 #### now enjoy the project
